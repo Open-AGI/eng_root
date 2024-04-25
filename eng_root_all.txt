@@ -1,0 +1,2045 @@
+-vine-
+  -vict- 胜，征服
+-form- 形式，格式，形成
+-prehend(s)- 抓住
+-struct- 建造
+-od- 路
+-bar-
+  -bal-
+  -ban- 长木条，障碍
+-vi-
+  -via- 路
+-script-
+  -scrib- 写
+-techn(o)- 技术，艺术
+-press- 压，按
+-rect- 正，直
+-flu-
+  -flux- 流
+-st-
+  -sist-
+  -stat-
+  -stin-
+  -stem- 立，站
+-sit-
+  -sid-
+  -sed-
+  -sess- 坐
+-pear-
+  -par- 生
+-mov-
+  -mob-
+  -mot- 移动
+-cover- 覆盖，掩盖
+-plic-
+  -ply-
+  -pli-
+  -pie-
+  -plex-
+  -plo-  to flod （倍，重，折叠）
+-mus- 音乐，娱乐
+-erg-
+  -org-
+  -urg- 做，工作
+-lect-
+  -lig-
+  -leg-
+  -legis- 采集，读，说，法律
+-nerv-
+  -neur- 神经
+-path(o)-
+  -pat(i)-
+  -pass(i)-
+  -pathy-  to feel 感受， to suffer 受苦的
+-strain-
+  -strict-
+  -stress-
+  -string-
+  -strang-  to draw tight （拉紧）
+-vac-
+  -vacu-
+  -van-
+  -void-
+  -vain- 空
+-ple(t)-
+  -plet-
+  -pli-
+  -ply-
+  -plen(i)-  to fill, full 装满（的）
+-medi- 中间
+-preci-
+  -prais-
+  -pric-
+  -priz- 价值
+-miss-
+  -mit- 投，送，发
+-sci- 知
+-liter- 文字
+-sum-
+  -sumpt- 最高，总，拿
+-spect-
+  -speci-
+  -spec-
+  -spic-
+  -spi-
+  -spy- to look, to see 看
+-vis-
+  -vid- 看
+-seri- 重要
+-lat- 拿，持，带来，搬运，担负
+-lax- 松弛 放松
+-sim-
+  -sem-
+  -simil-
+  -simul-
+  -sembl- 相似
+-discip- 法则
+-helic- 旋
+-cept-
+  -cap-
+  -capt-
+  -ceiv-
+  -ceit-
+  -cip-
+  -cup- 拿，抓
+-sert- 放置，结合
+-duct-
+  -due- 引导
+-peri-
+  -pert- 试验，尝试
+-scen- 设置
+-journ- 一天
+-circ-
+  -cycl- 圆
+-part- 分，部分
+-ven-
+  -vent- 来
+-haust- 抽出
+-tra-
+  -tract-
+  -treat- 拖，拉，拽
+-loc- 地方
+-urb- 城市
+-fortun- 财富
+-torn-
+  -tour-
+  -tourn- 转，迂回
+-noc-
+  -nox(i)-
+  -nui-
+  -nec- 伤害
+-proach-
+  -proxim- 接近
+-gorg- 吞咽
+-arch-
+  -archa(e)- 统治，起始
+-fess- 说，宣称
+-manu-
+  -man- 手
+-fasc- 捆，束
+-viv-
+  -vit-
+  -veg- 活
+-tact-
+  -tang-
+  -tag-
+  -ting-
+  -tig-
+  -tast- 接触
+-liqu- 液体
+-pand-
+  -pans- 展开
+-mix-
+  -misc-
+  -mixt- 混杂，混合
+-electr- 电
+-clud-
+  -clus-
+  -clos-
+  -clois-
+  -claus-
+  -clot- 关闭
+-ag-
+  -act-
+  -ig- 驱使；做
+-order-
+  -ord-
+  -ordin-
+  -ordain- 命令
+-solv-
+  -solu-
+  -solut- 解，松的
+-flagr-
+  -flam- 燃烧，火焰
+-fac(t)-
+  -fec(t)-
+  -fic(t)- 做 （-feas-
+  -feit-
+  -feat-
+  -fit- ）
+-ton-
+  -tun- 声， 音调
+-tain-
+  -ten-
+  -tin-
+  -tent- 握，持，守
+-capit-
+  -cap(t)-
+  -cep(s)-
+  -chapt-
+  -cip-
+  -chef-
+  -chief-
+  -cephal- 头
+-ced-
+  -ceed-
+  -cess- 走
+-log(ue)-
+  -loqu-
+  -locut- 言，说
+-fend-
+  -fens- 打击
+-cre-
+  -cresc-
+  -cret- 增长 生长，产生
+-cent- 百
+-sign- 设计
+-doc-, -doct- 教
+-milit-
+  -soldier- 兵
+-centr- 中心
+-fin- 终结，末尾，界限
+-fan-
+  -phan- 幻影，幻象
+-pend-
+  -pens- (-pond-, -penc-) hang悬挂，weigh称量，pay花费
+-van-
+  -advance-
+  -advant- 前，先
+-frequen-
+  -frequent- 反复
+-di-
+  -day 日
+-rar- 稀有
+-verb- 字，词
+-anxi- 紧张，不安
+-jur-
+  -jud(g)-
+  -jus-
+  -judg- 法律，审判
+-pun(i)-
+  -poen-
+  -pain-
+  -penal-
+  -pent- 惩罚
+-norm- 规范，正规，正常
+-pneum(on)- 肺
+-rad(io)-
+  -ray- 光线，辐射
+-sur- 确定
+-quest-
+  -quis(t)-
+  -quir-
+  -quer- 问，求，寻
+-bronch(i)(o)- 气管
+-cancer(o)(i)-
+  -cancr(i)(o)- 镑蟹，癌症
+-dict-
+  -dic- 言，说
+-dom(o)-
+  -domat(o)-
+  -domin- 屋，统治
+-jec(t)-
+  -jac(t)-
+  -jet- 投掷
+-pot(ent)-
+  -poss-
+  -pow- 力量，能力
+-crim-
+  -crimin- 控诉，罪行
+-nect-
+  -nex(t)- 结，系
+-rat-
+  -ratio- 计算，推定 理由
+-alesc-
+  -alit-
+  -olesc- 养育 成长
+-grat-
+  -grac-
+  -gree- 感谢
+-hor(r)- 怕
+-cogn(is)-
+  -gno(s)- 知道
+-gymn(o)- 运动，体育
+-aud(i)- 听
+-class- 分类，等级
+-pon-
+  -pound-
+  -pos(it)- 放置
+-orches- 跳舞
+-phon-
+  -phem-
+  -fam-
+  -phet-
+  -fat- 声音，说话
+-gen-
+  -gn-
+  -gener-
+  -gent- 出生
+-prim-
+  -prem-
+  -prin-
+  -pri- 第一
+-album(i)(n)o- 白色
+-ball(o)-
+  -halo-
+  -bol(o)(a)(e)- 抛，舞，球
+-sol- 单独，太阳
+-cit-
+  -cite-
+  -citat- 召唤
+-obsolesc-
+  -obsolet- 成长，长大
+-cor(d)-
+  -card-
+  -cour- 心（脏）
+-art-
+  -arthr(o)- 艺术，关节
+-temper-
+  -tempor- 时间
+-light- 光，轻，愉快
+-draw- 画
+-pict-
+  -paint- 画，图片，照片
+-di(a)(o)t-
+  -don-
+  -dow-
+  -dos- 给
+-imag-
+  -imit- 图像
+-serv-
+  -serf- 观看，服务，保留
+-real- 现实
+-opt-
+  -ops-
+  -opi- 采取，眼睛
+-us-
+  -uti(l)-
+  -ut- 使用
+-habit-
+  -hibit- 拥有，占据，居住
+-scape- 形状
+-graph-
+  -gram- 写，画，文字，图形
+-celebr- 赞美，名望
+-eco-
+  -ecu-
+  -oce- 住所，经济，生态
+-polit-
+  -polic-
+  -polis- 城市
+-cosm(o)- 宇宙 -
+-nav-
+  -nau(s)-
+  -naut- 船，航行，海员
+-vers-
+  -vert- 转
+-orb- 圆
+-histor- 叙事，历史
+-place- 放，地方
+-ali-
+  -all- 其它
+-am-
+  -amor-
+  -amat- 爱，情爱
+-aster-
+  -astr(o)- 星星
+-tele- 远
+-cult- 耕作
+-fund-
+  -found- 底，基础
+-reg- 规则，统治
+-magist-
+  -master- 掌控
+-ess-
+  -esse-
+  -sent-
+  -terest- 存在 to be
+-cad-
+  -cas-
+  -cid- 降落
+-drama- 戏剧
+-sect-
+  -sec-
+  -seg- 切
+-cruc-
+  -cruis-
+  -crus-
+  -crux- 十字
+-rang-
+  -rank- 排列，顺序
+-mark-
+  -marg-
+  -march- 作记号，边界
+-civ-
+  -cit- 公民，城市
+-gubern-
+  -govern- 管理，统治
+-parl- 说，谈
+-sculpt- 雕刻
+-hom(o)-
+  -hum- 人；土地；人类；卑下；湿
+-velop- 包，裹，卷
+-meter-
+  -metr-
+  -meas-
+  -mens- 计量，测量
+-port- 拿，取
+-pollut- 脏
+-vast-
+  -wast- 空，荒废
+-caus- 导致 原因
+-cur-
+  -curs-
+  -cour-
+  -cours- 跑
+-latitud-
+  -lati-
+  -latis- 宽
+-trop- 转
+-equ-
+  -iqu- 相等
+-rot- 轮，转
+-viol- 力，暴力
+-rupt- 破
+-terr- 惊吓
+-damn-
+  -demn- 惩罚，伤害
+-camp- 田野，场所
+-cast- 投掷
+-spher(e)- 球，圈，层
+-carb- 碳
+-oxy-
+  -oxia-
+  -oxic- 尖锐，敏锐，氧
+-chem- 化学
+-viron- 环路
+-coast-
+  -cost- 肋骨，旁边，边
+-cern-
+  -cret-
+  -creet-
+  -cre- 辨别
+-maj-
+  -max-
+  -magn- 伟大，壮大
+-plain-
+  -plaint- 打
+-tect-
+  -teg- 掩盖，掩护
+-soph- 智慧
+-honor-
+  -hono-
+  -honest- 荣誉
+-tribut-
+  -tribu- 给
+-mon- 提醒，警告，单一，公共
+-term-
+  -termin- 限定，界线，末端
+-commod- 便利 方便
+-merg-
+  -mers- 沉，没
+-glob-
+  -glom- 球
+-freeze-
+  -frig-
+  -friger- 冷，冰冻
+-rid-
+  -ris- 笑
+-alter-
+  -altern- 改变，替换
+-matr(i)-
+  -metro-
+  -mater-
+  -mater(n)- 母
+-li-
+  -lig-
+  -ly-
+  -leag- 绑
+-limit-
+  -limin-
+  -lim- 界限
+-mand-
+  -mend- 命令
+-car-
+  -char- 车
+-clin-
+  -cli-
+  -cliv- 倾
+-tach-
+  -tack- 钉，扣件
+-optim- 最好的
+-colon-
+  -col- 栖息
+-fare- 去
+-ped-
+  -pod-
+  -patch- 脚
+-plor- 流出，哀叫，哀叹
+-gest-
+  -gist-
+  -ger- 运送
+-mun- 公共
+-un-
+  -uni- 整体；联合
+-var(i)- 变
+-gress-
+  -grad-
+  -gred-
+  -gre(e)- 步，走
+-vol-
+  -volv-
+  -vol(u)t- 滚，转
+-rud- 原始，粗野
+-plod(s)-
+  -plaud(s)-
+  -plex- 爆破，鼓掌
+-soci- 同伴，联合，结合
+-bi(o)- 生命
+-bot- 种植，植物
+-zo(o)- 动物
+-ori-
+  -ort-
+  -orig- 升起
+-popul-
+  -publ- 人民
+-quant- 量，数量
+-qual- 性质，特征
+-brev- 短
+-phys- 自然，物理
+-ann-
+  -enn- 年
+-person-
+  -parson- 人
+-cav- 洞，空
+-nat-
+  -nasc-
+  -naiss-
+  -naiv- 出生
+-tort-
+  -tor- 扭，拧
+-monstr- 显示，显现
+-myst-
+  -myth- 神秘
+-claim-
+  -clam- 喊叫
+-fac-
+  -fie-
+  -front- 面部，正面，前额
+-apt-
+  -ept-
+  -att- 适当，适应
+-stinct-
+  -sting-
+  -sti(g)- 刺，扑灭
+-emper-
+  -imper- 命令
+-put-
+  -count- 数，计算，考虑
+-ident- 相同
+-lingu- 语言
+-cant-
+  -cent-
+  -chant-
+  -chans- 歌唱
+-sec-
+  -sequ-
+  -secut-
+  -su- 跟随
+-fus-
+  -fut-
+  -fund-
+  -found- 熔化；倾倒
+-par-
+  -pair-
+  -per-
+  -pir-
+  -peer- 相等
+-fer- 带来，拿，负担
+-nounc-
+  -nunc(i)- 说，告
+-add- 加，加上
+-tempt-
+  -tent- 尝试，触摸
+-crit-
+  -cris- 判断
+-sat(set)-
+  -satis-
+  -satur- 足，满，饱
+-vol-
+  -volunt- 意志，意愿
+-main-
+  -man- 停驻
+-sal-
+  -salt- 盐
+-lys-
+  -lyt- 分，解，溶，散
+-val- 强
+-divid-
+  -divis- 分
+-mort-
+  -mors-
+  -mor- 死
+-pan- 面包
+-cur- 关心，挂念，注意
+-turb-
+  -turbul- 骚乱，骚扰
+-roma- 罗马
+-fore-
+  -fort- 力量，强壮
+-carn- 肉
+-tend-
+  -tens-
+  -tent- 伸
+-memor-
+  -ment-
+  -mind- 记忆
+-par- 准备
+-plant- 种植
+-tir- 拉，引
+-min(i)- 小
+-ultim- 最后
+-clar-
+  -clear-
+  -clair- 清楚，明白
+-pet(it)-
+  -pit-
+  -peat- 追求
+-fisc- 国库
+-mamm- 乳房
+-it- 走
+-fid-
+  -fi-
+  -fy-
+  -feder-
+  -feal- 相信
+-migr- 迁移
+-cert- 确实
+-firm- 坚固，固定
+-mat- 成熟
+-typ(o)- 打击，压印
+-mod- 量器
+-quaint- 认知
+-caut- 仔细
+-hospit-
+  -host- 客人，主人 敌人
+-psych(o)- 精神
+-amb-
+  -ambi-
+  -ambul- 行走
+-nov- 新
+-her-
+  -hes- 粘着
+-patr(i)-
+  -pater(n)- 父，祖
+-pel-
+  -puls-
+  -peal- 推动，冲动
+-cred-
+  -creed-
+  -cre-
+  -grant- 相信，信任
+-stup(e)- 震惊，愚笨
+-fabric- 制造
+-veng-
+  -vind- 惩罚
+-ac-
+  -acu-
+  -acr-
+  -acer-
+  -acet- 尖，酸
+-lev-
+  -liev- 举，升
+-her- 继承
+-sens-
+  -sent- 感觉
+-text- 编织
+-flect-
+  -flex- 弯曲
+-sorb(e)-
+  -sorpt- 吸
+-vad-
+  -vas-
+  -wad- 行走
+-priv- 个人，私自
+-secr-
+  -sacr-
+  -sanct-
+  -sacer-
+  -saint 神圣
+-ras-
+  -rad-
+  -raz- 擦，刮
+-barb- 胡须
+-liber-
+  -libr-
+  -liter-
+  -lev(el)- 天平，自由
+-cel-
+  -celer- 快，速
+-nour-
+  -nurs- 喂养，营养
+-dec-
+  -decor- 合适
+-dyn-
+  -dynam(o)- 力，力量
+-micr(o)- 小，微
+-scop- 观察，镜
+-punc(t)-
+  -pung-
+  -pounc-
+  -poign-
+  -pon-
+  -point- 尖，刺
+-ir-
+  -irr- 怒
+-sper- 希望
+-pris-
+  -pren-
+  -pregn-
+  -priev- 抓，捕
+-nutr(i)-
+  -nurt- 营养
+-corpor-
+  -corp- 身体
+-cuss- 打击
+-voc-
+  -vok-
+  -vouc-
+  -vow-
+  -voic- 声音
+-salt-
+  -suit-
+  -sail-
+  -sili-
+  -salta- 跳
+-ethn(o)- 人种
+-vest- 穿衣，投资
+-esti-
+  -este 价值
+-merc- 商
+-crat-
+  -cracy- 统治
+-nom(y)- 学，术，法，治
+-grav-
+  -griev-
+  -gravat- 重，加重
+-terr- 地
+-riv- 河，河岸
+-pur-
+  -purg- 清洁，纯洁
+-dorm- 睡眠
+-fract-
+  -frag-
+  -fra-
+  -fring- 破，折
+-spir-
+  -spirat- 呼吸
+-mar- 海
+-rur-
+  -rus-
+  -rust- 农村
+-calc-
+  -calcul- 石，石灰
+-pot-
+  -pois- 饮
+-und-
+  -ound- 溢出，波浪
+-bat(t)- 打
+-phor- 带，持有，具有
+-flict- 打击
+-cand-
+  -cend-
+  -cens- 白，白热，火光
+-dign-
+  -dain-
+  -deign- 尊敬，有价值
+-vot-
+  -vov-
+  -vow- 发誓
+-toler- 忍受
+-alt- 高
+-spon-
+  -spond-
+  -spons-
+  -spous- 承诺
+-bel(l)- 战争，战
+-laps- 滑，落
+-mut 改变
+-rap-
+  -rapt-
+  -rep-
+  -rav- 夺，抓
+-splend- 发光，照耀
+-flor(i)-
+  -flour- 花
+-dur- 持久
+-anim- 生命，活，心神 意见，精神
+-lav-
+  -lu(t)-
+  -lau- 冲洗
+-trem-
+  -trep- 颤抖，震颤
+-cid-
+  -cis- 切，杀
+-story- 故事，楼层
+-anth- 花
+-inter-
+  -integr- 整，全
+-greg- 群
+-rod-
+  -ros- 咬，啃，啮
+-san(it)-
+  -sal- 健康，卫生
+-scend-
+  -scens-
+  -scent-
+  -scan-
+  -scal- 爬
+-nomin-
+  -nomen-
+  -onym- 名
+-neutr-
+  -neuter-
+  -neut- 中
+-fug-
+  -bow-
+  -bog- 逃，散
+-later- 边
+-agri-
+  -agro-
+  -agr- 田地，农田
+-dent- 牙齿
+-du-
+  -dupl- 二
+-ed-
+  -es- 吃
+-ev- 年龄，寿命 时代 时期
+-idio-
+  -idi- 特殊的，个人的
+-insul-
+  -isol-
+  -isl- 岛
+-juven-
+  -juv- 年轻，年少
+-custom- 习惯
+-lun- 月亮
+-mir-
+  -mar 惊奇， 惊异
+-numer-
+  -number- 数
+-paci- 和平，平静
+-son 声音
+-tail- 切割
+-aer(o)-
+  -air-
+  -er-
+  -ar- 空气
+-anthrop(o)- 人，人类
+-aqu-
+  -aqua-
+  -aque-
+  -aqui-水
+-arch(ae)-
+  -archy- 统治者，首脑统治
+-av(i)- 鸟
+-bibli (o)- 书
+-brig- 战斗，打
+-chron- 时
+-cub-
+  -comb- 躺，卧
+-dem(o)- 人民
+-dexter-
+  -dextr-
+  -dextro-
+  -dextra- 右
+-dom- 屋，家
+-drom- 跑
+-ego- 我
+-err-
+  -arr- 漫游，走，行
+-fab-
+  -fabl-
+  -fabul- 言
+-ferv- 沸，热
+-fil- 线
+-flat- 吹
+-gam(o)- 婚姻
+-gran-
+  -grain- 谷物，谷粒
+-gyn-
+  -gynec(o)- 妇女
+-hal- 呼吸
+-ign- 火
+-junct-
+  -joint-
+  -join-
+  -jug- 连接，连结
+-luc-
+  -lux-
+  -lus(t)-
+  -lustr-
+  -lumin- 光
+-min-
+  -men- 伸出，突出
+-mis(o)- 恨，厌恶
+-mur- 墙
+-nihil- 无
+-noct(i)-
+  -nox- 夜
+-orn- 装饰
+-past- 喂，食
+-ped- 儿童，小孩
+-petr(o)- 石
+-phag- 吃
+-phil(o)- 爱
+-phob(ia)- 怕
+-radic- 根
+-sen- 老
+-spers-
+  -spars- 散，撒
+-stell- 星
+-the(o)- 神
+-trud-
+  -trus- 推，冲
+-tut-（教），  -tuit- （学）监护，看管
+-umbr- 阴影
+-vag- 走，漫游
+-ver(i)- 真实
+-temper- 节制，温度
+-med(i)- 治疗
+-am-
+  -em- 拿
+-bar(o)-
+  -bary- 重，压
+-beaut-
+  -bell- 美
+-calor-
+  -cale- 热
+-cart-
+  -card-
+  -chart- 纸
+-curv- 弯曲
+-fail-
+  -fall-
+  -fals- 错，假
+-febr(i)-
+  -fever- 热
+-fibr- 纤维
+-fix- 固定
+-tom(y)- 且，割
+-plac-
+  -plais-
+  -pleas- 取悦，抚慰，和平
+-hydr(o)- 水
+-lde(o)- 意，观念
+-stud- 学习，工作
+-lud-
+  -lus- 游戏，扮演
+-miser- 可怜，悲惨
+-mont-
+  -mount- 登上，上升
+-neg- 否认，否定
+-not- 记号，标记，知道
+-ward-
+  -ware-
+  -warn- 病室，病房
+-phot(o)-
+  -phos- 光
+-phras-
+  -pha-
+  -phe-
+  -phu- 说，语言
+-plan- 平
+-pract-
+  -prag- 做，实行
+-qui-
+  -quiet- 静
+-salv-
+  -sav- 救
+-arm- 武器
+-ser(i)- 系列，连
+-sol- 安慰
+-therm(o)- 热，量
+-andr(o)- 人，男人，雄性
+-tox- 毒
+-morph- 形
+-prov-
+  -prob-
+  -proof- 证实
+-vent- 风
+-rol- 滚动
+-vibr- 振动
+-vigil- 醒着
+-vigor- 精力
+-labor- 劳动
+-lic-
+  -lect- 引诱
+-blanc- 白
+-caval-
+  -chival- 马
+-chrom(o)-
+  -chromat(o)- 色
+-exter-
+  -extr- 外
+-fem-
+  -femin- 妇女
+-ferr(o)- 铁
+-agog-
+  -agog(ue)- 引导
+-alg- 痛
+-brut- 兽
+-chlor(o)- 氯，绿
+-crypt(o)- 隐，秘密
+-culp- 罪
+-frug-
+  -fruct- 果实
+-glaci- 冰
+-bolo- 全
+-homo- 同
+-iso- 等，同
+-latr(y)- 崇拜 ＝-later- 崇拜者
+-lith-
+  -lite- 石
+-mne-
+  -mnes-
+  -mnemon-
+  -mem(or)- 记忆
+-oram-
+  -orama- 观看，景
+-ot(o)- 耳
+-pale(o)-
+  -palae- 古，旧
+-strateg- 指挥
+-phyt(o)- 植物
+-plut(o)- 财
+-prot(o)- 前，第一，原始
+-pter- 翅，翼
+-stereo- 立体
+-sua-
+  -suad-
+  -suas-
+  -suav- 劝告
+-terg-
+  -ters- 擦，除掉
+-blast(o)- 胚，芽
+-cac(o)- 恶，不良
+-cry(o)- 冷，冻
+-dens- 密，浓
+-foli- 叶
+-gloss-
+  -glot- 舌，语言
+-heli(o)- 太阳
+-heter(o)- 异
+-mat- 动
+-mancy- 占卜
+-mund- 世界
+-iter- 再
+-necr(o)- 死尸，死
+-ocul- 眼
+-pyr(o)- 火
+-Sino-
+  -Sinic(o)- 中国
+-arter-
+  -arterio-
+  -arteri- 动脉
+-aur(i)- 耳
+-carp(o)- 果实
+-chiro-
+  -cheir- 手
+-chrys- 金
+-crani(o)- 头颅，头盖
+-cyan(o)- 蓝，青，氰
+-dactyl(o)- 指，趾
+-dendr(o)- 树
+-derm-
+  -derma-
+  -dermat- 皮
+-dors- 背后
+-enter- 肠
+-entom(o)- 昆虫
+-frater- 兄弟
+-gastr(o)- 胃，腹
+-gyr(o)- 旋转
+-hedron-
+  -hedral- 面体
+-hipp(o)- 马
+-ichthy- 鱼
+-hypn(o)- 睡眠
+-iod- 碘
+-labi- 唇
+-lachrym- 泪
+-lact-
+  -galact- 乳
+-lapid- 石
+-laryng(o)- 咽喉
+-leuc(o)- 白
+-melan- 黑
+-mes(o)- 中间
+-noct(i)-
+  -nox- 夜
+-odont(o)- 牙
+-ophi(o)- 蛇
+-ophthalm- 眼
+-ornith- 鸟
+-phyll(o)- 叶
+-pisc- 鱼
+-potam- 河
+-rhin(o)- 鼻
+-rhiz(o)- 根
+-rhag-
+  -rrhag-
+  -rrhea- （过多）流出
+-sangui(n)- 血
+-sarc(o)- 肉
+-scler(o)- 硬
+-sinu- 弯曲
+-sit(o)- 食物
+-somn- 睡眠
+-stom-
+  -stomat(o)- 口
+-strat- 层
+-tard- 缓慢
+-tenu- 薄
+-vacc- 牛
+-vend- 卖
+-verm(i)- 蠕虫
+-verd-
+  -vir- 绿
+-xanth(o)- 黄
+-xer(o)-
+  -xir- 干燥
+-xyl(o)- 木
+-star- 星星
+-lux-
+  -lust- 奢华
+-top- 地方
+-ard-
+  -ars- 烧
+-corn-
+  -cer- 角
+-dol- 悲
+-ole(o)- 油
+-pen-
+  -penn-
+  -pinn- 羽毛
+-pol(y)- 卖
+-ge-
+  -geo- 地
+-vil-
+  -vuln-
+  -vul-
+  -vuls-
+  -vult- 卑贱
+-men-
+  -min- 威胁
+-olig(o)- 少
+-oss(e)-
+  -oste(o)- 骨
+-peps-
+  -pept- 消化
+-plur-
+  -plus- 多
+-porc-
+  -pork- 猪
+-tim- 怕
+-aem-
+  -haem(o)-
+  -haemat(o)- 亦作 -em-
+  -hem(o)-
+  -hemat(o)- 血
+-fid-
+  -fiss- 裂
+-fili- 子女
+-nat- 浮游
+-ov(i)-
+  -oo- 卵
+-macr(o)- 长，大
+-ur- 尿
+-lic- 准许
+-vor- 吃
+-vin- 葡萄，酒
+-proud-
+  -improv- 勇敢, 傲慢
+-gon- 角
+-or-
+  -ora-
+  -ore-
+  -orat- 说
+-mean-
+  -men- 引导
+-luct- 挣扎
+-cens- 审查、评价
+-bon- 好
+-pheno- 显示，展现
+-milli- 千
+-industr- 工业
+-enter- 进入
+-trap- 陷阱
+-ventr- 腹部
+-athl- 竞争
+-rab-
+  -rag-
+  -rav- 愤怒
+-cumul- 堆积
+-herc- 重复？？？？？？
+-solid- 固体，整体
+-templ- 重复
+-thesis-
+  -thet- 放置
+-severe- 严重
+-esthetic- 审美
+-esthetic- 感觉？？？？
+-cut- 皮肤
+-oper-
+  -op- 工作
+-proper-
+  -propr(i)- 适当，自己
+-gret- 哭喊，呼叫
+-machin- 机器，机械
+-art- 关节
+-character- 印记
+-veal-
+  -vela-
+  -vel- 覆盖
+-funct-
+  -fungi- 履行，执行
+-sort- 分类
+-super- 超级
+-arbit-
+  -arbitr- 判断
+-mens- 月亮
+-bin- 二
+-gage- 承诺，抵押
+-mor- 习惯
+-erc 保护 限制
+-categor- 范畴
+-ford- 向前
+-vir- 男人
+-min- 伸
+-caliber- 模子
+-rac- 种族
+-phas- 月相，相位，阶段
+-quot- 引用
+-digit- 手指
+-interpret- 说明
+-bur- 掩埋
+-or- 嘴
+-corp- 团，块
+-wet- 湿
+-brace- 胳臂
+-ceremon- 仪式
+-theor- 推理
+-farm- 衣田
+-warm- 温暖
+-war- 战争
+-writ- 写
+-bright- 明亮的
+-search- 搜索，搜寻
+-arc- 弧
+-hair- 头发，毛发
+-chair- 椅子，主持
+-mon- 月亮
+-cloth- 布
+-come- 来
+-start- 开始
+-book- 书
+-mate- 伙伴
+-mail- 邮件
+-care- 关心
+-believe-
+  -belief- 信任
+-land- 陆地
+-work- 工作
+-heart- 心
+-park- 公园，停放
+-feel-
+  -felt- 感受
+-school-
+  -schol- 学校
+-cook- 烹调
+-skill- 技能
+-joy- 欢乐
+-day- 天
+-year- 年
+-look- 看
+-worth- 价值
+-hor-
+  -hour- 时间，小时
+-fav(or)- 好感
+-sex- 性
+-line- 绳
+-season- 季节
+-family- 家
+-country- 国家
+-call- 呼喊
+-reason- 原因
+-travel- 旅行
+-base- 基础，底部
+-color- 颜色
+-drink-
+  -drank-
+  -drunk- 喝
+-problem- 问题
+-styl- 风格
+-achieve- 完成
+-change- 改变
+-academy- 学术
+-week- 星期
+-night- 夜晚
+-challenge- 挑战
+-child- 孩子
+-friend- 朋友
+-drive- 驾驶
+-code- 代码
+-deal- 交易
+-late- 晚的
+-see-
+  -saw-
+  -seen- 看
+-address- 地址
+-cheer- 欢呼
+-have- 有
+-craze- 疯狂
+-new- 新
+-peace- 和平
+-grow-
+  -grew-
+  -grown- 生长
+-beat- 打击
+-name- 名字
+-focus- 集中
+-kind- 种类
+-fool- 愚蠢
+-Saturn- 农神
+-glass- 光
+-mother- 母亲
+-father- 父亲
+-water- 水
+-breath- 呼吸
+-happy- 快乐
+-fear- 害怕
+-wood- 木
+-seal- 封印
+-ease- 容易
+-wise- 智慧
+-theater- 戏院
+-field- 田地
+-shot-
+  -shoot- 拍摄
+-finger- 手指
+-rail- 直
+-single- 单一
+-cross- 十字
+-task- 任务
+-dress- 衣着
+-wrong- 错误
+-young-
+  -youth- 年轻
+-fire- 火
+-save-
+  -safe- 安全
+-fight- 战斗
+-laugh- 笑
+-cloud- 云
+-bell- 铃销
+-bath- 洗澡
+-round- 滚动
+-wound- 伤口
+-marry- 结婚
+-fill-
+  -full- 满
+-flat- 平
+-half- 半
+-foreign- 外国
+-pass- 通过
+-member- 成员
+-author- 作家
+-double- 双倍
+-desire- 渴望
+-win- 赢，战胜，取得
+-table- 桌子
+-eye- 眼睛
+-fast- 快速
+-slave- 奴隶
+-die- 死亡
+-word- 单词
+-busy- 忙
+-give- 给
+-find- 发现
+-well- 好
+-jewel- 珠宝
+-back- 背
+-good- 好
+-try- 尝试
+-last- 最后
+-brown- 褐色
+-blow- 吹
+-left- 左
+-cold- 冷
+-soldier- 士兵
+-gold- 金
+-smith- 工匠
+-fold- 折叠
+-route- 路
+-group- 团
+-born- 生
+-bear- 忍受
+-hear- 听
+-run- 跑
+-number- 数字
+-large- 大
+-wide- 宽
+-impact- 影响
+-issue- 问题
+-far- 远
+-black- 黑色
+-little- 小，少
+-end- 结束
+-bad- 坏
+-pay- 支付
+-white- 白色
+-watch- 看
+-door- 门
+-food- 事物
+-moment- 时刻
+-teach- 教
+-foot- 脚
+-wait- 等待
+-tax- 税
+-space- 空间
+-couple- 对
+-wear- 穿
+-court- 法院
+-piece- 块
+-wall- 墙
+-film- 电影
+-quick- 迅速
+-bed- 床
+-drop- 放下
+-blood- 血液
+-push- 推动
+-fine- 好
+-trade- 交易
+-page- 页
+-rise- 上升
+-stock- 股份
+-size- 尺寸
+-dog- 狗
+-list- 列表
+-answer- 回答
+-source- 来源
+-able- 能
+-box- 盒子
+-deep- 深
+-green- 绿色
+-yellow- 黄
+-blue- 蓝
+-faith- 信念
+-will- 意志，意愿
+-dark- 黑暗
+-skin- 皮肤
+-weight- 重量
+-guard- 守卫
+-ship- 船
+-brain- 头脑
+-yard- 院子
+-argue- 争论
+-lift- 举起
+-gun- 枪
+-check- 检查
+-wave- 波动
+-rich- 富
+-leg- 腿
+-lay- 趟
+-metal- 金属
+-low- 低
+-glow- 发热
+-hang- 悬挂
+-eat- 吃
+-cell- 细胞
+-shake- 摇晃
+-fly- 飞
+-fish- 鱼
+-worry- 担心
+-edge- 边缘
+-bag- 包
+-gas- 气
+-total- 全部
+-wind- 风
+-fresh- 新鲜
+-forest- 森林
+-bird- 鸟
+-touch- 接触
+-hole- 洞
+-guide- 指南
+-christian- 基督
+-band- 带
+-invite- 邀请
+-wild- 野生
+-earn- 赚
+-block- 块
+-title- 标题
+-ear- 耳朵
+-folk- 大众
+-quarter- 四分之一
+-burn- 燃烧
+-bone- 骨
+-cool- 冷
+-hell- 地狱
+-fair- 公平
+-neck- 脖子
+-plastic- 形成
+-plate- 薄板
+-rain- 雨
+-dry- 干
+-node- 节点
+-fuel- 燃料
+-leaf- 叶子
+-go- 走
+-panel- 布
+-weather- 天气
+-straight- 直
+-fruit- 果实
+-shadow- 阴影
+-shift- 移动
+-pack- 包装
+-internal- 内部
+-link- 弯
+-root- 根
+-nose- 鼻子
+-wake- 觉醒
+-slip- 滑动
+-due- 到期
+-frame- 框架
+-debt- 债务
+-wing- 翅膀
+-doubt- 怀疑
+-hero- 英雄
+-stretch- 伸展
+-fashion- 时尚
+-pepper- 胡椒
+-copy- 复制
+-leave- 离开
+-allow- 允许
+-window- 窗
+-listen- 听
+-billion- 十亿
+-hundred- 百
+-floor- 地板
+-church- 教堂
+-risk- 风险
+-poor- 贫穷
+-race- 跑动，种族
+-cup- 杯子
+-wonder- 惊奇
+-weapon- 武器
+-element- 元素
+-wish- 愿望
+-worship- 崇拜
+-item- 项目
+-brave- 勇敢
+-sincere- 真诚
+-frank- 坦白
+-rocket- 火箭
+-chancel- 斜栅
+-nice- 美好
+-nuclear- 核
+-after- 后面
+-crisp- 转
+-spot- 斑点
+-truck- 卡车
+-gain- 追寻
+-theme- 主题
+-blame- 责备
+-chain- 链子
+-branch- 分支
+-silent- 安静
+-feeble- 呻吟
+-ocean- 海洋
+-crown- 王冠
+-drown- 淹没
+-frown- 皱眉
+-clown- 小丑
+-tail- 尾巴，尾部
+-thing- 事物
+-know- 知道，了解
+-self- 自己，自身，本人
+-time- 时间
+-home- 家
+-hope- 希望
+-guy- 家伙
+-heal- 治疗
+-weal- 福利
+-learn- 学习
+-live-
+  -life- 生命
+-love- 爱
+-speak-
+  -spoke-
+  -spoken- 说，讲
+-load- 负载
+-world- 世界
+-spark- 火花
+-play- 玩
+-dream- 梦
+-kill- 杀死
+-think-
+  -thought- 想
+-like- 像
+-maz- 迷惑
+-strong-
+  -strength 强壮
+-house- 屋子
+-true-
+  -tru- 真诚
+-ground- 底部
+-body- 身体
+-clean- 干净
+-help- 帮助
+-tight- 拉紧
+-game- 游戏
+-long-
+  -length- 长
+-short- 短
+-most- 最多
+-man- 人
+-paper- 纸
+-job- 工作
+-make- 制作
+-room- 空间
+-seem- 好像
+-seed- 种子
+-seek- 寻求
+-saw- 锯
+-earth- 土地
+-right- 正确
+-stone- 石头
+-wash- 清洗
+-east- 东方
+-west- 西方
+-south- 南方
+-north- 北方
+-law- 放置
+-coward- 胆小鬼
+-kindle- 点燃
+-build-
+  -built- 建造
+-stroll- 偏离
+-troll- 旋转
+-scroll- 卷轴
+-share-
+  -shore-
+  -shear- 分开
+-open- 打开
+-turn- 旋转
+-lead- 领导
+-free- 自由
+-spring- 春
+-summer- 夏
+-autumn- 秋
+-winter- 冬
+-sight- 视力
+-sea- 海
+-hot-
+  -heat- 热
+-seam- 缝补
+-main- 主要
+-sell-
+  -sale- 卖
+-board- 木板
+-break-
+  -broke-
+  -broken- 破
+-head- 头
+-song-
+  -sing- 歌唱
+-hunt- 打猎
+-boat- 船
+-broad- 分开
+-sound- 声音
+-ready- 准备
+-show- 显示
+-sleep-
+  -slept- 睡
+-shape- 形状
+-road- 骑行
+-town- 城
+-pound- 镑
+-thousand- 千
+-speed- 速度
+-loud- 大声
+-bound- 弹跳
+-smart- 聪明
+-mean- 意思
+-demo- 魔鬼
+-bare- 赤裸
+-side- 方面
+-team- 团队
+-sun- 太阳
+-moon- 月亮
+-shame- 羞耻
+-keep 保持
+-say- 说
+-get- 得到
+-own- 拥有
+-there- 那里
+-take- 拿
+-here- 这里
+-only- 唯一
+-tell- 告诉
+-even- 甚至
+-down- 向下
+-ask- 问
+-high- 高
+-much- 多
+-put- 放
+-hold- 持有
+-scold- 责骂
+-solder- 焊接
+-old- 老
+-mold- 发霉
+-toilet- 厕所
+-out- 在外
+-mouth- 嘴
+-shout- 呼喊
+-great- 伟大
+-big- 大
+-talk- 谈话
+-hand- 手
+-might- 力量
+-crunch- 咬碎声
+-small- 小
+-trend- 趋势
+-dear- 亲爱
+-ever- 永远
+-lose- 减少
+-set- 设定
+-kid- 小孩
+-follow- 跟随
+-stop- 停止
+-read- 阅读
+-spread- 传播
+-bread- 面包
+-walk- 步行
+-girl- 女孩
+-boy- 男孩
+-hard- 硬
+-send- 发送
+-fall- 落下
+-cut- 切
+-top- 顶部
+-penny- 便士
+-reach- 达到
+-drug- 药
+-whole- 完整
+-pull- 拉
+-thank- 感谢
+-pick- 挑选
+-hit- 打击
+-street- 街
+-step- 步
+-baby- 婴儿
+-red- 红
+-chance- 机会
+-past- 过去
+-near- 近
+-wife- 妻子
+-husband- 百
+-daughter- 女儿
+-brother- 兄弟
+-sister- 姐妹
+-throw- 投
+-decade- 十
+-shop- 商店
+-trip- 远足
+-budget- 预算
+-neighbor- 邻居
+-tool- 工具
+-key- 钥匙
+-flower- 花
+-smile- 微笑
+-calm- 平静
+-score- 分数
+-scorn- 轻蔑
+-low- 慢
+-guess- 猜测
+-lone- 单独
+-forth- 向前
+-pioneer- 先锋
+-sudden- 突然
+-garden- 花园
+-camera- 摄影
+-shoulder- 肩
+-bill- 账单
+-flow- 流动
+-swallow- 吞没
+-shallow- 浅
+-mallow- 锦葵
+-willow- 柳树
+-hollow- 洞
+-mellow- 圆润
+-flag- 旗子
+-pillow- 枕头
+-billow- 巨浪
+-rank- 等级
+-miss- 偏离
+-spell- 拼写
+-rock- 岩石
+-huge- 巨大
+-bit- 小块
+-bite- 咬
+-heavy- 沉重
+-tough- 艰苦
+-pattern- 模式
+-threat- 威胁
+-troop- 军队
+-hurt- 受伤
+-strike- 打击
+-sky- 天空
+-crisis- 危机
+-fan- 煽动
+-ice- 冰
+-village- 村庄
+-screen- 屏幕
+-Soviet 苏联
+-dance- 舞蹈
+-hide- 隐藏
+-club- 堆积
+-crowd- 群
+-horse- 马
+-target- 目标
+-ride- 骑
+-bridge- 桥
+-average- 平均
+-tear- 眼泪
+-jump- 跳
+-gather- 集中
+-cry- 哭
+-soft- 柔软
+-shoe- 鞋
+-net- 网
+-grab- 抓住
+-knee- 膝盖
+-tape- 胶带
+-tap- 塞子
+-taper- 灯芯
+-hire- 雇用
+-birth- 出生
+-tie- 系
+-tier- 层
+-lean- 倾斜
+-tall- 高
+-hate- 讨厌
+-male- 男性
+-chicken- 鸡
+-shut- 关闭
+-map- 地图
+-pool- 水塘
+-climb- 爬
+-sweet- 甜
+-fat- 肥胖
+-ticket- 票
+-lip- 嘴唇
+-lunch- 午餐
+-sugar- 糖
+-soul- 灵魂
+-pocket- 口袋
+-thin- 薄
+-poll- 投票
+-aid- 帮助
+-breast- 胸部
+-storm- 风暴
+-struggle- 奋斗
+-ring- 铃
+-bore- 钻孔
+-dare- 勇敢
+-tower- 塔
+-county- 郡
+-loan- 贷款
+-crew- 队
+-screw- 螺旋
+-meal- 吃饭
+-thick- 厚
+-cash- 现金
+-launch- 发射
+-sick- 病
+-catholic- 普遍
+-shirt- 衬衫
+-pilot- 飞行员
+-snow- 雪
+-steal- 偷
+-meat- 肉
+-fun- 乐趣
+-soil- 土地
+-jewish- 犹太
+-golf- 高尔夫
+-kick- 踢
+-row- 排
+-tooth- 牙齿
+-tank- 水箱
+-bond- 债券
+-stir- 搅动
+-tip- 小费
+-cheap- 便宜
+-aim- 目的
+-dish- 圆盘
+-beach- 海滩
+-gray- 灰色
+-ush- 匆忙
+-tire- 疲劳
+-wit- 智慧
+-match- 比赛
+-mass- 大块
+-bomb- 轰炸
+-wheel- 轮子
+-cable- 拿
+-narrow- 狭窄
+-cream- 奶油
+-gate- 大门
+-hill- 小山
+-chill- 冷
+-noise- 噪音
+-grass- 草
+-hat- 帽子
+-talent- 才能
+-milk- 牛奶
+-height- 高
+-gay- 同性恋
+-guilt- 犯罪
+-weak- 虚弱
+-column- 圆柱
+-regard- 注意
+-knock- 敲
+-label- 标签
+-wrap- 缠绕
+-pray- 祈祷
+-spray- 喷雾
+-cheese- 奶酪
+-cigar- 雪茄
+-scream- 尖叫
+-gap- 间隙
+-luck- 运气
+-therapy- 治疗
+-schedule- 安排
+-sad- 悲哀
+-sadism- 虐待狂
+-chase- 追逐
+-chip- 切片
+-bike- 自行车
+-spoon- 勺
+-slide- 滑动
+-wed- 结婚
+-alcohol- 酒精
+-bend- 弯曲
+-sand- 沙
+-lock- 锁
+-stream- 小河
+-mine- 矿
+-sharp- 锋利
+-drag- 拖累
+-dragon- 龙
+-library- 图书馆
+-roof- 屋顶
+-grand- 巨大
+-knife- 刀
+-joke- 玩笑
+-coat- 外套
+-dust- 灰尘
+-glad- 高兴
+-irony- 讽刺
+-iron- 铁
+-sauce- 沙司
+-priest- 牧师
+-shock- 震惊
+-kiss- 吻
+-juice- 果汁
+-brilliant- 灿烂
+-boss- 老板
+-champion- 冠军
+-enhance- 提高
+-poverty- 贫穷
+-king- 国王
+-mood- 情绪
+-boot- 靴子
+-bean- 豆
+-anger- 愤怒
+-peak- 山峰
+-wire- 线
+-twin- 双胞胎
+-mell- 闻
+-toss- 投掷
+-mechanic- 机械
+-butter- 黄油
+-smoke- 冒烟
+-glance- 一瞥
+-smooth- 光滑
+-belt- 带
+-silver- 银
+-teen- 十几
+-squeeze- 挤
+-whisper- 私语
+-corn- 小麦
+-swing- 摇摆
+-throat- 喉咙
+-dig- 挖
+-burden- 负担
+-pink- 粉色
+-buck- 鹿皮
+-weigh- 重量
+-tube- 管子
+-tub- 浴盆
+-stub- 树桩
+-tuber- 块茎
+-quit- 离开
+-latin- 拉丁
+-rapid- 迅速
+-jail- 监狱
+-essay- 散文
+-giant- 巨人
+-cake- 蛋糕
+-pop- 砰然声
+-shell- 贝壳
+-brand- 牌子
+-mad- 疯狂
+-poet- 诗
+-wage- 工资
+-wagon- 货车
+-wag- 走
+-sweep- 扫除
+-muslin- 穆斯林
+-islamic- 伊斯兰
+-snap- 咬
+-hip- 臀部
+-lord- 上帝
+-switch- 转换
+-gang- 群
+-ganglion- 神经
+-draft- 草稿
+-rough- 粗糙
+-through- 通过
+-yell- 呼喊
+-clock- 时钟
+-chocolate- 巧克力
+-funeral- 葬礼
+-spin- 旋转
+-spine- 脊柱
+-spiny- 刺
+-spindle- 纺织
+-button- 按钮
+-yield- 屈服
+-counter- 对立面
+-dirt- 污垢
+-flood- 洪水
+-flesh- 肉
+-channel- 通道
